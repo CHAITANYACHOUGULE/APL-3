@@ -1,4 +1,4 @@
-<h1>Download the zip file</h1>h1>
+<h1>Download the zip file</h1>
 <h1>To push on your repo use this commands</h1>
 git init<br>
 git add README.md<br>
